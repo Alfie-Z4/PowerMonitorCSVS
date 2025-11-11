@@ -1,0 +1,6 @@
+\# Minimal requirements for simplified power monitor
+\# Retained hardware/SPI libs; removed MQTT, ZMQ, templating
+spidev
+rpi.gpio
+bcr-libraries
+bcr-mcp3008
